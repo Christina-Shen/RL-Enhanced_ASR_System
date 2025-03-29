@@ -11,7 +11,7 @@ A novel framework that integrates reinforcement learning with SpeechBrain to opt
 - Features modular architecture with acoustic and language models
 - Well-established framework for validating ASR algorithms
 
-## Speech Aignal Data Augmentation Techniques
+## Speech Signal Data Augmentation Techniques
 Data augmentation techniques play a critical role in enhancing ASR robustness and can be categorized into:
 
 ### Augmentation Techniques
@@ -41,6 +41,8 @@ Our framework extends SpeechBrain by:
 Here's training framework overview:
 ![image](https://github.com/user-attachments/assets/8ba86112-5765-4e72-94d5-38f110b8b303)
 
+
+->you can see more detail in rl_enhanced_asr_detail_description.pdf
 
 ## Advantages
 - Balances immediate improvements with cumulative performance gains
