@@ -49,3 +49,6 @@ Here's training framework overview:
 - Adapts to different audio characteristics dynamically
 - Addresses limitations of traditional Speech Enhancement methods
 - Demonstrated significant enhancements in ASR accuracy and robustness
+
+
+you can see more detail description in rl_enhanced_asr_detail_description.pdf
